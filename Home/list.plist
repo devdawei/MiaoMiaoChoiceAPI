@@ -5,6 +5,10 @@
 	<key>data</key>
 	<array>
 		<dict>
+			<key>imgHeight</key>
+			<string>600</string>
+			<key>imgWidth</key>
+			<string>1920</string>
 			<key>link</key>
 			<string>https://alienware.tmall.com/view_shop.htm?spm=a220m.1000858.0.0.ix1Qgr&amp;shop_id=127449538&amp;scm=1048.1.1.12&amp;rn=f2093e2a4e84c0c172c51e335f1c8ee7</string>
 			<key>img</key>
@@ -13,6 +17,10 @@
 			<string>外星人旗舰店 性能怪兽，所向披靡</string>
 		</dict>
 		<dict>
+			<key>imgHeight</key>
+			<string>383</string>
+			<key>imgWidth</key>
+			<string>790</string>
 			<key>link</key>
 			<string>https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.5.vp1dUQ&amp;id=530823599626&amp;skuId=3173632338638&amp;user_id=2782121871&amp;cat_id=2&amp;is_b=1&amp;rn=bc9b297a6b50d1f1f81a9966b28ca31e</string>
 			<key>img</key>
@@ -21,6 +29,10 @@
 			<string>MARS BY CRAZYBABY L141磁悬浮音响 疯童火星 无线蓝牙音箱重低音</string>
 		</dict>
 		<dict>
+			<key>imgHeight</key>
+			<string>350</string>
+			<key>imgWidth</key>
+			<string>750</string>
 			<key>link</key>
 			<string>https://content.tmall.com/wow/pegasus/subject/0/2187313339/7129340?spm=a220m.1000858.1000725.29.5iLjhv&amp;gccpm=13072800.300.2.subject-1001.60665&amp;wh_tailer=2&amp;tailer=2&amp;wh_header=1&amp;header=1&amp;id=7129340&amp;rn=4a8bb1d7aa40ce0c9031bdbfd6c82edc&amp;cat=56148012&amp;from=act_1_act-2-album#J_Crumb</string>
 			<key>img</key>
@@ -29,6 +41,10 @@
 			<string>蚁视二代VR头盔  360度沉浸式交互体验，探索超越想象的虚拟现实！</string>
 		</dict>
 		<dict>
+			<key>imgHeight</key>
+			<string>418</string>
+			<key>imgWidth</key>
+			<string>790</string>
 			<key>link</key>
 			<string>https://detail.tmall.com/item.htm?spm=a222t.7786574.tabs.29.FN76a0&amp;acm=lb-zebra-21014-276839.1003.4.417745&amp;id=526089756173&amp;scm=1003.4.lb-zebra-21014-276839.ITEM_526089756173_417745</string>
 			<key>img</key>
@@ -37,6 +53,10 @@
 			<string>LG PD239SF手机照片打印机家用便携式迷你无线蓝牙口袋相片冲印机</string>
 		</dict>
 		<dict>
+			<key>imgHeight</key>
+			<string>852</string>
+			<key>imgWidth</key>
+			<string>790</string>
 			<key>link</key>
 			<string>https://detail.tmall.com/item.htm?spm=a222t.7786574.tabs.51.FN76a0&amp;acm=lb-zebra-21014-276839.1003.4.417745&amp;id=530882324624&amp;scm=1003.4.lb-zebra-21014-276839.ITEM_530882324624_417745&amp;sku_properties=5919063:6536025</string>
 			<key>img</key>
