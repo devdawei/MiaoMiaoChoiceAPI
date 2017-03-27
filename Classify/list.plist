@@ -56,6 +56,22 @@
 			<key>title</key>
 			<string>天猫</string>
 		</dict>
+		<dict>
+			<key>link</key>
+			<string>http://www.youku.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/youku.jpg?raw=true</string>
+			<key>title</key>
+			<string>优酷</string>
+		</dict>
+		<dict>
+			<key>link</key>
+			<string>http://www.iqiyi.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/iqiyi.jpg?raw=true</string>
+			<key>title</key>
+			<string>爱奇艺</string>
+		</dict>
 	</array>
 </dict>
 </plist>
