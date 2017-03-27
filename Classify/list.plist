@@ -6,7 +6,7 @@
 		<key>link</key>
 		<string>http://www.vip.com</string>
 		<key>img</key>
-		<string></string>
+		<string>https://raw.githubusercontent.com/devdawei/MiaoMiaoChoiceAPI/master/Classify/vip.jpg</string>
 		<key>title</key>
 		<string>唯品会</string>
 	</dict>
@@ -14,7 +14,7 @@
 		<key>link</key>
 		<string>http://www.yhd.com</string>
 		<key>img</key>
-		<string></string>
+		<string>https://raw.githubusercontent.com/devdawei/MiaoMiaoChoiceAPI/master/Classify/yhd.jpg</string>
 		<key>title</key>
 		<string>一号店</string>
 	</dict>
@@ -22,7 +22,7 @@
 		<key>link</key>
 		<string>http://www.gome.com</string>
 		<key>img</key>
-		<string></string>
+		<string>https://raw.githubusercontent.com/devdawei/MiaoMiaoChoiceAPI/master/Classify/gome.jpg</string>
 		<key>title</key>
 		<string>国美</string>
 	</dict>
@@ -30,7 +30,7 @@
 		<key>link</key>
 		<string>http://www.suning.com</string>
 		<key>img</key>
-		<string></string>
+		<string>https://raw.githubusercontent.com/devdawei/MiaoMiaoChoiceAPI/master/Classify/suning.jpg</string>
 		<key>title</key>
 		<string>苏宁</string>
 	</dict>
@@ -38,7 +38,7 @@
 		<key>link</key>
 		<string>http://www.jd.com</string>
 		<key>img</key>
-		<string></string>
+		<string>https://raw.githubusercontent.com/devdawei/MiaoMiaoChoiceAPI/master/Classify/jd.jpg</string>
 		<key>title</key>
 		<string>京东</string>
 	</dict>
@@ -46,7 +46,7 @@
 		<key>link</key>
 		<string>http://www.tmail.com</string>
 		<key>img</key>
-		<string></string>
+		<string>https://raw.githubusercontent.com/devdawei/MiaoMiaoChoiceAPI/master/Classify/tmail.jpg</string>
 		<key>title</key>
 		<string>天猫</string>
 	</dict>
