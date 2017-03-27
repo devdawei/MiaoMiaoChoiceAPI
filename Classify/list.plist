@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-
+<dict>
+	<key>code</key>
+	<string>1</string>
+	<key>msg</key>
+	<string>success</string>
+	<key>data</key>
+	<array>
+		<dict>
+			<key>link</key>
+			<string>http://www.vip.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/vip.jpg?raw=true</string>
+			<key>title</key>
+			<string>唯品会</string>
+		</dict>
+		<dict>
+			<key>link</key>
+			<string>http://www.yhd.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/yhd.jpg?raw=true</string>
+			<key>title</key>
+			<string>一号店</string>
+		</dict>
+		<dict>
+			<key>link</key>
+			<string>http://www.gome.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/gome.jpg?raw=true</string>
+			<key>title</key>
+			<string>国美</string>
+		</dict>
+		<dict>
+			<key>link</key>
+			<string>http://www.suning.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/suning.jpg?raw=true</string>
+			<key>title</key>
+			<string>苏宁</string>
+		</dict>
+		<dict>
+			<key>link</key>
+			<string>http://www.jd.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/jd.jpg?raw=true</string>
+			<key>title</key>
+			<string>京东</string>
+		</dict>
+		<dict>
+			<key>link</key>
+			<string>http://www.tmail.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/tmail.jpg?raw=true</string>
+			<key>title</key>
+			<string>天猫</string>
+		</dict>
+	</array>
+</dict>
 </plist>
