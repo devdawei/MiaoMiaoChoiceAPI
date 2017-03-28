@@ -66,7 +66,7 @@
 		</dict>
 		<dict>
 			<key>link</key>
-			<string>http://music.163.com</string>
+			<string>http://music.163.com/#</string>
 			<key>img</key>
 			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/music_163.jpg?raw=true</string>
 			<key>title</key>
