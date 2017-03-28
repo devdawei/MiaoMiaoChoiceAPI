@@ -66,11 +66,11 @@
 		</dict>
 		<dict>
 			<key>link</key>
-			<string>http://music.163.com/#</string>
+			<string>https://m.y.qq.com/#</string>
 			<key>img</key>
-			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/music_163.jpg?raw=true</string>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/music_qq.jpg?raw=true</string>
 			<key>title</key>
-			<string>网易云音乐</string>
+			<string>QQ音乐</string>
 		</dict>
 		<dict>
 			<key>link</key>
