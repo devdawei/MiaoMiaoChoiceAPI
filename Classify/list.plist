@@ -58,6 +58,14 @@
 		</dict>
 		<dict>
 			<key>link</key>
+			<string>http://m.iqiyi.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/iqiyi.jpg?raw=true</string>
+			<key>title</key>
+			<string>爱奇艺</string>
+		</dict>
+		<dict>
+			<key>link</key>
 			<string>http://www.youku.com</string>
 			<key>img</key>
 			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/youku.jpg?raw=true</string>
@@ -66,11 +74,11 @@
 		</dict>
 		<dict>
 			<key>link</key>
-			<string>http://www.iqiyi.com</string>
+			<string>https://v.qq.com</string>
 			<key>img</key>
-			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/iqiyi.jpg?raw=true</string>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/tencent_video.jpg?raw=true</string>
 			<key>title</key>
-			<string>爱奇艺</string>
+			<string>腾讯视频</string>
 		</dict>
 	</array>
 </dict>
