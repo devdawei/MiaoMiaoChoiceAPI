@@ -26,19 +26,19 @@
 		</dict>
 		<dict>
 			<key>link</key>
+			<string>http://www.tmall.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/tmail.jpg?raw=true</string>
+			<key>title</key>
+			<string>天猫</string>
+		</dict>
+		<dict>
+			<key>link</key>
 			<string>http://www.gome.com.cn</string>
 			<key>img</key>
 			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/gome.jpg?raw=true</string>
 			<key>title</key>
 			<string>国美</string>
-		</dict>
-		<dict>
-			<key>link</key>
-			<string>http://www.suning.com</string>
-			<key>img</key>
-			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/suning.jpg?raw=true</string>
-			<key>title</key>
-			<string>苏宁</string>
 		</dict>
 		<dict>
 			<key>link</key>
@@ -50,11 +50,11 @@
 		</dict>
 		<dict>
 			<key>link</key>
-			<string>http://www.tmall.com</string>
+			<string>http://www.suning.com</string>
 			<key>img</key>
-			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/tmail.jpg?raw=true</string>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/suning.jpg?raw=true</string>
 			<key>title</key>
-			<string>天猫</string>
+			<string>苏宁</string>
 		</dict>
 		<dict>
 			<key>link</key>
@@ -63,6 +63,14 @@
 			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/youku.jpg?raw=true</string>
 			<key>title</key>
 			<string>优酷</string>
+		</dict>
+		<dict>
+			<key>link</key>
+			<string>http://music.163.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/music_163.jpg?raw=true</string>
+			<key>title</key>
+			<string>网易云音乐</string>
 		</dict>
 		<dict>
 			<key>link</key>
