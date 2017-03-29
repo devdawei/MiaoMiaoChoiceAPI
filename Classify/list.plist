@@ -58,6 +58,14 @@
 		</dict>
 		<dict>
 			<key>link</key>
+			<string>https://m.baidu.com</string>
+			<key>img</key>
+			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/baidu.jpg?raw=true</string>
+			<key>title</key>
+			<string>百度一下</string>
+		</dict>
+		<dict>
+			<key>link</key>
 			<string>http://www.youku.com</string>
 			<key>img</key>
 			<string>https://github.com/devdawei/MiaoMiaoChoiceAPI/blob/master/Classify/youku.jpg?raw=true</string>
